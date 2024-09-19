@@ -1,4 +1,4 @@
-I can create a system to automatically generate detailed prompts for ChatGPT based on specific keywords or simple content. 
+I can create a system to automatically generate detailed prompts for ChatGPT based on specific keywords or simple content.<br> 
 To achieve this, I would typically use a combination of a natural language processing model, such as ChatGPT itself, and some programming to handle the keyword detection and prompt generation.
 
 Here’s a basic example using Python, where I can modify the code to suit your specific requirements:
@@ -92,5 +92,5 @@ print(response)
     
     *   Implement more sophisticated prompt generation if needed, based on the complexity of the keywords or context.
 
-This setup provides a basic framework for generating detailed prompts dynamically. 
+This setup provides a basic framework for generating detailed prompts dynamically. <br>
 I can build upon this to fit my specific use case, whether it's integrating into a larger application or refining the prompt generation logic.
